@@ -19,3 +19,4 @@ public class SpringApplicationContext implements ApplicationContextAware {
 		return CONTEXT.getBean(beanName);
 	}
 }
+
